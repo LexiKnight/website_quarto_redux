@@ -1,0 +1,6 @@
+---
+title: "Welcome to my website"
+---
+
+Hi, my name is Lexi Knight. I am a student at the University of Toronto minoring in Statistics
+---
